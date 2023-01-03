@@ -34,6 +34,7 @@
   </tr>
   </font>
 </table>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdsc-zhcet" alt="gdsc-zhcet" /></a> </p>
 
