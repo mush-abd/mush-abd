@@ -10,30 +10,27 @@
 
 <h2 align="left">Why Choose Us:</h2><br>
 
-<table>
 <font size="2">
-  <tr>
-    <td width="50%">
       <p style="font-size:20px">
         <ul>
-          <li>Hands-on Workshops</li>
-          <li>Collaborative Events with Fellow GDSCs</li>
-          <li>Talks: Get updated with the latest<br> technologies by the industry experts</li>
-          <li>Codelabs: Get hands-on experience and <br> guidance from the community members</li>
+          <li>Hands-on Workshops.</li>
+          <br>
+          <li>Collaborative Events with Fellow GDSCs.</li>
+          <br>
+          <li>Talks: Get updated with the latest technologies by the industry experts.</li>
+          <br>
+          <li>Codelabs: Get hands-on experience and guidance from the community members.</li>
+          <br>
+        <li>Build Projects & Compete in the GDSC Solution Challenge.</li>
+          <br>
+        <li>Campus Roadshows: Share knowledge in different Companies,colleges and universities.</li>
+        <br>
+        <li>Share knowledge in different colleges and universities through Google Cloud/Android Study Jams.</li>
+        <br>
+        <li>GDG / GDE expert talks.</li>
       </ul>
-      </p>
-    </td>
-    <td width="50%"> 
-      <ul>
-        <li>Build Projects & Compete in the GDSC Solution Challenge</li>
-        <li>Campus Roadshows: Share knowledge in different Companies, colleges, and universities</li>
-        <li>Share knowledge in different colleges and <br> universities through Google Cloud/Android Study Jams</li>
-        <li>GDG / GDE expert talks</li>
-      </ul>
-        </td>
-  </tr>
+</p>
   </font>
-</table>
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdsc-zhcet" alt="gdsc-zhcet" /></a> </p>
@@ -55,3 +52,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gdsc-zhcet&show_icons=true&locale=en" alt="gdsc-zhcet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gdsc-zhcet&" alt="gdsc-zhcet" /></p>
+
