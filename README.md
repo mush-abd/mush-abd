@@ -15,25 +15,18 @@
       <p style="font-size:20px">
           <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>Hands-on Workshops.
           <br>
-        <br>
           <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Collaborative Events with Fellow GDSCs.</g-emoji>
           <br>
-            <br>
           <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Talks: Get updated with the latest technologies by the industry experts.</g-emoji>
           <br>
-        <br>
           <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Codelabs: Get hands-on experience and guidance from the community members.</g-emoji></li>
           <br>
-  <br>
         <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Build Projects & Compete in the GDSC Solution Challenge.</g-emoji></li>
           <br>
-  <br>
         <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Campus Roadshows: Share knowledge in different Companies,colleges and universities.</g-emoji>
         <br>
-  <br>
         <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Collaborate with Colleges and Universities through Google Cloud/Android Study Jams.</g-emoji>
         <br>
-  <br>
         <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡GDG / GDE expert talks.</g-emoji>
 </p>
   </font>
