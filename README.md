@@ -7,15 +7,15 @@
 
 <h2 align="left">Why Choose Us</h>
 
-<table width="50">
+<table>
 <font size="2">
   <tr>
-    <td width=50%">Hands-on Workshops<br><br>
+    <td width="50%">Hands-on Workshops<br><br>
 Collaborative Events with Fellow GDSCs<br><br>
 Talks: Get updated with the latest<br> technologies by the industry experts<br><br>
 Codelabs: Get hands-on experience and <br> guidance from the community members<br><br>
 GDG / GDE expert talks<br></td>
-    <td width=50%"> Build Projects & Compete in the GDSC Solution Challenge<br><br>
+    <td width="50%"> Build Projects & Compete in the GDSC Solution Challenge<br><br>
  Campus Roadshows: Share knowledge in different Companies, colleges, and universities<br><br>
  Share knowledge in different colleges and <br> universities through Google Cloud/Android Study Jams<br></td>
   </tr>
