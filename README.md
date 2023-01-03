@@ -1,4 +1,4 @@
-<head>
+[<head>
       <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <meta charset="UTF-8">
  </head>
@@ -53,3 +53,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gdsc-zhcet&" alt="gdsc-zhcet" /></p>
 
+](https://raw.githubusercontent.com/tayyab-ilyas/mush-abd/main/Gmail-Logo-removebg-preview.png)
