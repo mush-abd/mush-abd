@@ -8,7 +8,7 @@
 <h2 align="left">About Us:</h2>
 <p align="left">Welcome to Google Developer Student Clubs, ZHCET. Google Developer Student Clubs are university-based community groups for students interested in Google developer technologies. By joining a GDSC, students get access to Google Developer resources, build their personal and professional network, and work together to build solutions for local problems in a peer-to-peer learning environment.</p>
 
-<h2 align="left">Why Choose Us:</h2><br><br>
+<h2 align="left">Why Choose Us:</h2><br>
 
 <table>
 <font size="2">
