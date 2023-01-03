@@ -1,4 +1,4 @@
-[<head>
+<head>
       <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <meta charset="UTF-8">
  </head>
@@ -9,7 +9,7 @@
 <h2 align="left">About Us:</h2>
 <p align="left">Welcome to Google Developer Student Clubs, ZHCET. Google Developer Student Clubs are university-based community groups for students interested in Google developer technologies. By joining a GDSC, students get access to Google Developer resources, build their personal and professional network, and work together to build solutions for local problems in a peer-to-peer learning environment.</p>
 
-<h2 align="left">Why Choose Us:</h2><br>
+<h2 align="left">Why Choose Us:</h2>
 
 <font size="2">
       <p style="font-size:20px">
@@ -38,10 +38,12 @@
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
+
 <a href="https://gdsczhcet.vercel.app/" target="_blank"><img align="center" src="https://github.com/tayyab-ilyas/mush-abd/blob/main/logogdsc.png?raw=true" alt="gzhcet" height="30" width="40" /></a>
 <a href="https://twitter.com/gzhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gzhcet" height="30" width="40" /></a>
 <a href="https://linkedin.com/company/gdsc-zhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/gdsc-zhcet" height="30" width="40" /></a>
 <a href="https://instagram.com/gdsc_zhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gdsc_zhcet" height="30" width="40" /></a>
+    <a href="mailto:gdsc.zhcet@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tayyab-ilyas/mush-abd/main/Gmail-Logo-removebg-preview.png" alt="gzhcet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools employed by the Team:</h3>
@@ -53,4 +55,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gdsc-zhcet&" alt="gdsc-zhcet" /></p>
 
-](https://raw.githubusercontent.com/tayyab-ilyas/mush-abd/main/Gmail-Logo-removebg-preview.png)
