@@ -2,6 +2,26 @@
 <img width="100%" src="https://media.licdn.com/dms/image/C4E1BAQEnXWza7gFVHw/company-background_10000/0/1631147296612?e=1672772400&v=beta&t=pmWM6EX1ix41VT9Re85mb_NCAsV_cNB-Ol7eOEQ5-m8">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdsc-zhcet&label=Profile%20views&color=0e75b6&style=flat" alt="gdsc-zhcet" /> </p>
 
+<h2 align="left">About Us</h2>
+<p align="left">Welcome to Google Developer Student Clubs, ZHCET. Google Developer Student Clubs are university-based community groups for students interested in Google developer technologies. By joining a GDSC, students get access to Google Developer resources, build their personal and professional network, and work together to build solutions for local problems in a peer-to-peer learning environment.</p>
+
+<h2 align="left">Why Choose Us</h>
+
+<table width="50">
+<font size="2">
+  <tr>
+    <td width=50%">Hands-on Workshops<br><br>
+Collaborative Events with Fellow GDSCs<br><br>
+Talks: Get updated with the latest<br> technologies by the industry experts<br><br>
+Codelabs: Get hands-on experience and <br> guidance from the community members<br><br>
+GDG / GDE expert talks<br></td>
+    <td width=50%"> Build Projects & Compete in the GDSC Solution Challenge<br><br>
+ Campus Roadshows: Share knowledge in different Companies, colleges, and universities<br><br>
+ Share knowledge in different colleges and <br> universities through Google Cloud/Android Study Jams<br></td>
+  </tr>
+  </font>
+</table>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdsc-zhcet" alt="gdsc-zhcet" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gzhcet" target="blank"><img src="https://img.shields.io/twitter/follow/gzhcet?logo=twitter&style=for-the-badge" alt="gzhcet" /></a> </p>
