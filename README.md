@@ -38,13 +38,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdsc-zhcet" alt="gdsc-zhcet" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gzhcet" target="blank"><img src="https://img.shields.io/twitter/follow/gzhcet?logo=twitter&style=for-the-badge" alt="gzhcet" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gzhcet" target="_blank"><img src="https://img.shields.io/twitter/follow/gzhcet?logo=twitter&style=for-the-badge" alt="gzhcet" /></a> </p>
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://twitter.com/gzhcet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gzhcet" height="30" width="40" /></a>
-<a href="https://linkedin.com/company/gdsc-zhcet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/gdsc-zhcet" height="30" width="40" /></a>
-<a href="https://instagram.com/gdsc_zhcet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gdsc_zhcet" height="30" width="40" /></a>
+<a href="https://twitter.com/gzhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gzhcet" height="30" width="40" /></a>
+<a href="https://linkedin.com/company/gdsc-zhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/gdsc-zhcet" height="30" width="40" /></a>
+<a href="https://instagram.com/gdsc_zhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gdsc_zhcet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools employed by the Team:</h3>
