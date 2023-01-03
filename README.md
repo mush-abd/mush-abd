@@ -1,5 +1,6 @@
 <head>
       <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <meta charset="UTF-8">
  </head>
 <h3 align="center"  >GDSC in Zakir Hussain College of Engineering and Technology</h3>
 <img width="100%" src="https://media.licdn.com/dms/image/C4E1BAQEnXWza7gFVHw/company-background_10000/0/1631147296612?e=1672772400&v=beta&t=pmWM6EX1ix41VT9Re85mb_NCAsV_cNB-Ol7eOEQ5-m8">
@@ -12,23 +13,21 @@
 
 <font size="2">
       <p style="font-size:20px">
-        <ul>
-          <li>Hands-on Workshops.</li>
+          <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>Hands-on Workshops.
           <br>
-          <li>Collaborative Events with Fellow GDSCs.</li>
+          <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Collaborative Events with Fellow GDSCs.</g-emoji>
           <br>
-          <li>Talks: Get updated with the latest technologies by the industry experts.</li>
+          <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Talks: Get updated with the latest technologies by the industry experts.</g-emoji>
           <br>
-          <li>Codelabs: Get hands-on experience and guidance from the community members.</li>
+          <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Codelabs: Get hands-on experience and guidance from the community members.</g-emoji></li>
           <br>
-        <li>Build Projects & Compete in the GDSC Solution Challenge.</li>
+        <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Build Projects & Compete in the GDSC Solution Challenge.</g-emoji></li>
           <br>
-        <li>Campus Roadshows: Share knowledge in different Companies,colleges and universities.</li>
+        <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Campus Roadshows: Share knowledge in different Companies,colleges and universities.</g-emoji>
         <br>
-        <li>Share knowledge in different colleges and universities through Google Cloud/Android Study Jams.</li>
+        <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Collaborate with Colleges and Universities through Google Cloud/Android Study Jams.</g-emoji>
         <br>
-        <li>GDG / GDE expert talks.</li>
-      </ul>
+        <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡GDG / GDE expert talks.</g-emoji>
 </p>
   </font>
 <br>
