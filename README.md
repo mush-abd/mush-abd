@@ -1,5 +1,6 @@
 <head>
       <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <meta charset="UTF-8">
  </head>
 <h3 align="center"  >GDSC in Zakir Hussain College of Engineering and Technology</h3>
 <img width="100%" src="https://media.licdn.com/dms/image/C4E1BAQEnXWza7gFVHw/company-background_10000/0/1631147296612?e=1672772400&v=beta&t=pmWM6EX1ix41VT9Re85mb_NCAsV_cNB-Ol7eOEQ5-m8">
@@ -10,41 +11,36 @@
 
 <h2 align="left">Why Choose Us:</h2><br>
 
-<table>
 <font size="2">
-  <tr>
-    <td width="50%">
       <p style="font-size:20px">
-        <ul>
-          <li>Hands-on Workshops</li>
-          <li>Collaborative Events with Fellow GDSCs</li>
-          <li>Talks: Get updated with the latest<br> technologies by the industry experts</li>
-          <li>Codelabs: Get hands-on experience and <br> guidance from the community members</li>
-      </ul>
-      </p>
-    </td>
-    <td width="50%"> 
-      <ul>
-        <li>Build Projects & Compete in the GDSC Solution Challenge</li>
-        <li>Campus Roadshows: Share knowledge in different Companies, colleges, and universities</li>
-        <li>Share knowledge in different colleges and <br> universities through Google Cloud/Android Study Jams</li>
-        <li>GDG / GDE expert talks</li>
-      </ul>
-        </td>
-  </tr>
+          <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>Hands-on Workshops.
+          <br>
+          <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Collaborative Events with Fellow GDSCs.</g-emoji>
+          <br>
+          <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Talks: Get updated with the latest technologies by the industry experts.</g-emoji>
+          <br>
+          <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Codelabs: Get hands-on experience and guidance from the community members.</g-emoji></li>
+          <br>
+        <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Build Projects & Compete in the GDSC Solution Challenge.</g-emoji></li>
+          <br>
+        <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Campus Roadshows: Share knowledge in different Companies,colleges and universities.</g-emoji>
+        <br>
+        <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Collaborate with Colleges and Universities through Google Cloud/Android Study Jams.</g-emoji>
+        <br>
+        <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡GDG / GDE expert talks.</g-emoji>
+</p>
   </font>
-</table>
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdsc-zhcet" alt="gdsc-zhcet" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gzhcet" target="blank"><img src="https://img.shields.io/twitter/follow/gzhcet?logo=twitter&style=for-the-badge" alt="gzhcet" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gzhcet" target="_blank"><img src="https://img.shields.io/twitter/follow/gzhcet?logo=twitter&style=for-the-badge" alt="gzhcet" /></a> </p>
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://twitter.com/gzhcet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gzhcet" height="30" width="40" /></a>
-<a href="https://linkedin.com/company/gdsc-zhcet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/gdsc-zhcet" height="30" width="40" /></a>
-<a href="https://instagram.com/gdsc_zhcet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gdsc_zhcet" height="30" width="40" /></a>
+<a href="https://twitter.com/gzhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gzhcet" height="30" width="40" /></a>
+<a href="https://linkedin.com/company/gdsc-zhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/gdsc-zhcet" height="30" width="40" /></a>
+<a href="https://instagram.com/gdsc_zhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gdsc_zhcet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools employed by the Team:</h3>
@@ -55,3 +51,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gdsc-zhcet&show_icons=true&locale=en" alt="gdsc-zhcet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gdsc-zhcet&" alt="gdsc-zhcet" /></p>
+
