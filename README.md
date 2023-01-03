@@ -20,7 +20,6 @@
           <li>Collaborative Events with Fellow GDSCs</li>
           <li>Talks: Get updated with the latest<br> technologies by the industry experts</li>
           <li>Codelabs: Get hands-on experience and <br> guidance from the community members</li>
-          <li>GDG / GDE expert talks</li>
       </ul>
       </p>
     </td>
@@ -29,6 +28,7 @@
         <li>Build Projects & Compete in the GDSC Solution Challenge</li>
         <li>Campus Roadshows: Share knowledge in different Companies, colleges, and universities</li>
         <li>Share knowledge in different colleges and <br> universities through Google Cloud/Android Study Jams</li>
+        <li>GDG / GDE expert talks</li>
       </ul>
         </td>
   </tr>
