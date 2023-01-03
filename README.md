@@ -38,9 +38,12 @@
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
+
+<a href="https://gdsczhcet.vercel.app/" target="_blank"><img align="center" src="https://github.com/tayyab-ilyas/mush-abd/blob/main/logogdsc.png?raw=true" alt="gzhcet" height="30" width="40" /></a>
 <a href="https://twitter.com/gzhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gzhcet" height="30" width="40" /></a>
 <a href="https://linkedin.com/company/gdsc-zhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/gdsc-zhcet" height="30" width="40" /></a>
 <a href="https://instagram.com/gdsc_zhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gdsc_zhcet" height="30" width="40" /></a>
+    <a href="mailto:gdsc.zhcet@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tayyab-ilyas/mush-abd/main/Gmail-Logo-removebg-preview.png" alt="gzhcet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools employed by the Team:</h3>
