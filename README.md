@@ -2,7 +2,7 @@
       <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <meta charset="UTF-8">
  </head>
-<h3 align="center"  >GDSC in Zakir Hussain College of Engineering and Technology</h3>
+<h3 align="center"  >Google Students Developers Club, ZHCET</h3>
 <img width="100%" src="https://media.licdn.com/dms/image/C4E1BAQEnXWza7gFVHw/company-background_10000/0/1631147296612?e=1672772400&v=beta&t=pmWM6EX1ix41VT9Re85mb_NCAsV_cNB-Ol7eOEQ5-m8">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdsc-zhcet&label=Profile%20views&color=0e75b6&style=flat" alt="gdsc-zhcet" /> </p>
 
