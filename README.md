@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Musharraf</h1>
-<h3 align="center">A passionate computer science geek from India</h3>
+<h3 align="center">A passionate computer science geek from India, currently pursuing gradatuation in Artificial Intelligence</h3>
 
 - 🌱 I’m currently learning **C Data Structures & Algorithms**
-- 🌱 I’m currently learning **CS50 by Harvard University**
+- 🌱 I’m currently learning **Machine Learning and its Application**
 
 - 👨‍💻 All of my projects are available at ...
 
-- 📫 How to reach me **mushabd.22@gmail.com**
+- 📫 How to reach me **gn2467@myamu.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
