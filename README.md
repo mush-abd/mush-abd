@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning **Machine Learning and its Application**
 - 🌱 I’m currently learning **Python, by Angela Yu**
 - 🌱 I’m currently taking a course on **Machine Learning Specialisation by Andrew Ng**
-- 🌱 I like to browse through tech videos on Youtube in my free time.
-- 
+- 🌱 I like to browse through tech videos on Youtube in my free time
 
+  
 - 👨‍💻 All of my projects are available at 'github.com/mush-abd
 
 - 📫 How to reach me **gn2467@myamu.ac.in**
