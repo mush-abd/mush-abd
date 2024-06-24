@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning C Data Structures & Algorithms<br><br>🌱 I’m currently learning Machine Learning and its Application<br><br>🌱 I’m currently learning Python, by Angela Yu<br><br>🌱 I’m currently taking a course on Machine Learning Specialisation by Andrew Ng<br><br>🌱 I like to browse through tech videos on Youtube in my free time<br><br>👨‍💻 All of my projects are available at 'github.com/mush-abd<br><br>📫 How to reach me gn2467@myamu.ac.in</p>
+<p align="left">🌱 I’m currently learning C Data Structures & Algorithms<br><br>🌱 I’m currently learning Machine Learning and its Application<br><br>🌱 I’m currently learning Python, by Angela Yu<br><br>🌱 I’m currently taking a course on Machine Learning Specialisation by Andrew Ng<br><br>🌱 I like to browse through tech videos on Youtube in my free time<br><br>👨‍💻 All of my projects are available at 'github.com/mush-abd<br><br>📫 How to reach me **gn2467@myamu.ac.in**</p>
 
 ###
 
@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
