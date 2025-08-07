@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">A passionate computer science geek from India, currently pursuing graduation in Artificial Intelligence</p>
+<p align="left">A passionate tech geek from India, currently pursuing graduation in Artificial Intelligence. My interest lies in the field of data engineering, data science, machine learning and deep learning with a passion to solve real life problems.</p>
 
 ###
 
-<p align="left">🌱 I’m currently learning C Data Structures & Algorithms<br><br>🌱 I’m currently learning Machine Learning and its Application<br><br>🌱 I’m currently learning Python, by Angela Yu<br><br>🌱 I’m currently taking a course on Machine Learning Specialisation by Andrew Ng<br><br>🌱 I like to browse through tech videos on Youtube in my free time<br><br>👨‍💻 All of my projects are available at 'github.com/mush-abd<br><br>📫 How to reach me <a href="mailto:gn2467@myamu.ac.in">gn2467@myamu.ac.in</a></p>
+<p align="left">🌱 I’m currently learning C Data Structures & Algorithms<br><br>🌱 I’m currently learning Machine Learning and its Application<br><br>🌱 I’m currently learning Python, by Angela Yu<br><br>🌱 Data Engineering Certificate<br><br>🌱 I like to browse through tech videos on Youtube in my free time<br><br>🌱 Project under progress - Real Time Video Feed Analysis for People with Visual Impairement.<br><br>👨‍💻 All of my projects are available at 'github.com/mush-abd<br><br>📫 How to reach me <a href="mailto:gn2467@myamu.ac.in">gn2467@myamu.ac.in</a></p>
 
 ###
 
