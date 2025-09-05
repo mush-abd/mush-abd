@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning C Data Structures & Algorithms<br><br>🌱 I’m currently learning Machine Learning and its Application<br><br>🌱 I’m currently learning Python, by Angela Yu<br><br>🌱 Data Engineering Certificate<br><br>🌱 I like to browse through tech videos on Youtube in my free time<br><br>🌱 Project under progress - Real Time Video Feed Analysis for People with Visual Impairement.<br><br>👨‍💻 All of my projects are available at 'github.com/mush-abd<br><br>📫 How to reach me <a href="mailto:gn2467@myamu.ac.in">gn2467@myamu.ac.in</a></p>
+<p align="left">🌱 I like to code in C, C++ and Python<br><br>🌱 I am interested in the field of Data Engineering, I know SQL, NoSQL and data pipeline tools such as airflow, bash, databricks, snowflake<br><br>🌱 I like to browse through tech videos on Youtube in my free time<br><br>🌱 Project under progress - Real Time Video Feed Analysis for People with Visual Impairement.<br><br>👨‍💻 All of my projects are available at 'github.com/mush-abd<br><br>📫 How to reach me <a href="mailto:gn2467@myamu.ac.in">gn2467@myamu.ac.in</a></p>
 
 ###
 
